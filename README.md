@@ -1,7 +1,10 @@
 # Atividade de Criptografia - Segurança e Auditoria de Sistemas
 
 
-Objetivos:
+### Objetivos:
+<ul>
+  <li>Criar uma aplicação de comunicação escrita peer-to-peer (P2P)</li>
+</ul>
 • Criar uma aplicação de comunicação escrita peer-to-peer (P2P)
 • Garantir a confidencialidade da comunicação
 • Utilizar a arquitetura cliente-servidor
